@@ -138,5 +138,4 @@ REST_FRAMEWORK = {
     "rest_framework.authentication.SessionAuthentication",
     "rest_framework.authentication.BasicAuthentication",
     "rest_framework.authentication.TokenAuthentication",],
-    "DEFAULT_SCHEMA_CLASS": "drf_spectacular.openapi.AutoSchema",
 }
